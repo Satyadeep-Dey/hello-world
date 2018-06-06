@@ -1,2 +1,2 @@
 # hello-world
-self learn
+This repository is for storing my experiments 
